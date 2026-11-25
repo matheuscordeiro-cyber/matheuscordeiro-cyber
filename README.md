@@ -5,7 +5,7 @@
 
 ### 🔐 Cybersecurity | Blue Team | SOC Analyst in Training
 
-**Estudante de Cibersegurança com foco em defesa de redes, monitoramento de ameaças e resposta a incidentes.**
+**Cibersegurança com foco em defesa de redes, monitoramento de ameaças e resposta a incidentes.**
 
 ![Blue Team](https://img.shields.io/badge/Blue%20Team-Defensive%20Security-0078D4?style=for-the-badge&logo=shield&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -21,7 +21,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1800&pause=700&color=00FF41&center=true&vCenter=true&width=700&height=100&lines=root%40cybersecurity%3A~%23+whoami;Initializing+Cybersecurity+Environment...;Identity%3A+Blue+Team;Mission%3A+Network+Defense;Status%3A+Learning+%26+Building" />
 </p>
 
-Sou estudante de **Cibersegurança**, com interesse especial em **Blue Team, operações de SOC e defesa de redes**. Estou construindo minha experiência por meio de estudos, laboratórios práticos e projetos documentados.
+Estou construindo minha experiência por meio de estudos, laboratórios práticos e projetos documentados.
 
 Meu objetivo é desenvolver as competências necessárias para atuar como **Analista SOC N1**, contribuindo para o monitoramento de ambientes, identificação de atividades suspeitas, análise de alertas e resposta inicial a incidentes.
 
