@@ -17,6 +17,10 @@
 
 ## 🧠 Sobre mim
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1800&pause=700&color=00FF41&center=true&vCenter=true&width=700&height=100&lines=root%40cybersecurity%3A~%23+whoami;Initializing+Cybersecurity+Environment...;Identity%3A+Blue+Team;Mission%3A+Network+Defense;Status%3A+Learning+%26+Building" />
+</p>
+
 Sou estudante de **Cibersegurança**, com interesse especial em **Blue Team, operações de SOC e defesa de redes**. Estou construindo minha experiência por meio de estudos, laboratórios práticos e projetos documentados.
 
 Meu objetivo é desenvolver as competências necessárias para atuar como **Analista SOC N1**, contribuindo para o monitoramento de ambientes, identificação de atividades suspeitas, análise de alertas e resposta inicial a incidentes.
@@ -152,6 +156,11 @@ Meu portfólio está organizado em **8 repositórios principais**, cobrindo dife
 
 *Ferramentas estudadas, utilizadas ou previstas nos laboratórios do portfólio.*
 
+## <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1500&pause=600&color=00BFFF&center=true&vCenter=true&width=700&height=100&lines=%5BSYSTEM%5D+Loading+Security+Modules...;%5BNETWORK%5D+Initializing+TCP%2FIP...;%5BSIEM%5D+Loading+Threat+Detection...;%5BLINUX%5D+Accessing+System+Tools...;%5BSTATUS%5D+Modules+Initialized+%3E_" />
+</p>
+
+
 ### 🔵 Blue Team, SOC & Monitoramento
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-5A3E85?style=for-the-badge&logo=wazuh&logoColor=white)
@@ -224,6 +233,11 @@ Meu portfólio está organizado em **8 repositórios principais**, cobrindo dife
 
 ## 📌 Metodologia dos projetos
 
+## <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1700&pause=700&color=00FF41&center=true&vCenter=true&width=750&height=100&lines=%24+sudo+./start-lab.sh;%5B%2B%5D+Scanning+Repositories...;%5B%2B%5D+Analyzing+Security+Labs...;%5B%2B%5D+Testing+Detection+Rules...;%5BOK%5D+Cyber+Operations+In+Progress" />
+</p>
+
+
 Cada repositório seguirá uma estrutura de documentação profissional:
 
 1. Objetivo e cenário.
@@ -273,5 +287,9 @@ Tenho interesse em trocar conhecimento, colaborar em projetos de segurança defe
 <div align="center">
 
 *"᥉ᥱᥴᥙrιtᥡ ι᥉ ᥒ᥆t ᥲ ρr᥆dᥙᥴt, bᥙt ᥲ ρr᥆ᥴᥱ᥉᥉."*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:001f3f,100:00ff9d&height=120&section=footer" />
+</p>
 
 </div>
