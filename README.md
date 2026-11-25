@@ -243,11 +243,11 @@ Todas as atividades ofensivas serão realizadas exclusivamente em ambientes pró
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=matheuscordeiro-cyber&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscordeiro-cyber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas" />
 
-<img src="https://streak-stats.demolab.com?user=herbertcarnaubadesouza&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
+<img src="https://streak-stats.demolab.com?user=matheuscordeiro-cyber&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
 
 </div>
 
