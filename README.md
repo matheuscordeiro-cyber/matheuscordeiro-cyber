@@ -3,7 +3,7 @@
 
 # 👨‍💻 Matheus Cordeiro
 
-### 🔐 Cybersecurity | Blue Team | SOC Analyst in Training
+### 🔐 Cybersecurity | Blue Team | SOC Analyst 
 
 **Cibersegurança com foco em defesa de redes, monitoramento de ameaças e resposta a incidentes.**
 
