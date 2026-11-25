@@ -241,15 +241,16 @@ Todas as atividades ofensivas serão realizadas exclusivamente em ambientes pró
 
 ## 📈 Estatísticas do GitHub
 
-<div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=matheuscordeiro-cyber&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscordeiro-cyber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas" />
-
-<img src="https://streak-stats.demolab.com?user=matheuscordeiro-cyber&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=matheuscordeiro-cyber&show_icons=true&theme=tokyonight&hide_border=true"
+    width="430"
+  />
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=matheuscordeiro-cyber&theme=tokyonight&hide_border=true"
+    width="500"
 
 ---
 
